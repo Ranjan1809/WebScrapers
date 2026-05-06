@@ -1,4 +1,5 @@
 #USED MakeMyTrip JOB APIs for data scraping
+#Currently fetching jobs that were posted in the current year
 
 import requests
 import csv
