@@ -1,5 +1,4 @@
-#USED MakeMyTrip JOB APIs data for scraping
-#Fetched all available jobs without job restriction of fetch only past two days posted jobs
+#USED MakeMyTrip JOB APIs for data scraping
 
 import requests
 import csv
